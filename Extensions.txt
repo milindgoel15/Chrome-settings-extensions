@@ -1,3 +1,6 @@
+You may find some of these extensions directly by the store if you are using a different browser. Otherwise, add to chrome function is universal and works with every chromium browsers out there.
+
+
 Link to Text Fragment :
 https://chrome.google.com/webstore/detail/link-to-text-fragment/pbcodcjpfjdpcineamnnmbkkmkdpajjg
 
@@ -6,3 +9,15 @@ https://chrome.google.com/webstore/detail/buster-captcha-solver-for/mpbjkejclgfg
 
 I don’t care about cookies :
 https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja
+
+Make every possible webpage/site in dark mode :
+https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+
+A simple extension to fix your grammar mistakes on go and works on site itself too :
+https://app.grammarly.com/
+
+For skipping sponsors, Intro, outro, etc :
+https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone
+
+AD-Blocker(cuzwhynot) :
+https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm
