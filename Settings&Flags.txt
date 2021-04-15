@@ -1,0 +1,28 @@
+This includes both usual settings and flags to change for enhancing the experience of user. You can changes thes settings on browser which is based on chromium. If you can't find these, I can't do anything about it.
+
+Mute notifications during a screen share:
+chrome://flags/#mute​-notifications-during-screen-share
+
+DNS encryption to 1.1.1.1:
+Go to settimgs > search for secure DNS > change to 1.1.1.1
+
+Chrome Duet Alternative:
+chrome://flags/#enable​-conditional-tabstrip
+
+Tab Groups:
+ON MOBILE-
+chrome://flags/#enable​-tab-groups
+chrome://flags/#enable​-tab-groups-continuation
+chrome://flags/#enable​-tab-groups-ui-improvements
+ON DESKTOP-
+edge://flags/#enable​edge-tab-groups
+edge://flags/#enable​edge-tab-groups-auto-create
+edge://flags/#enable​edge-tab-groups-collapse
+edge://flags/#enable​edge-tab-groups-collapse-freezing
+
+Chrome Tab Search:
+chrome://flags/#enable​-tab-search
+
+Chrome Permission Chip:
+chrome://flags/#permission​-chip
+
